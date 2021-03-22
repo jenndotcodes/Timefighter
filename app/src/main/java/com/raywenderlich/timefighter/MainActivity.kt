@@ -18,6 +18,8 @@ class MainActivity : AppCompatActivity() {
 
   private var score = 0
 
+  //made change
+
   private lateinit var gameScoreTextView: TextView
   private lateinit var timeLeftTextView: TextView
   private lateinit var tapMeButton: Button
